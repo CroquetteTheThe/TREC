@@ -4,6 +4,7 @@ Classify questions into categories
 
 ## Roadmap
 :heavy_check_mark: - Preprocess and prepare the training data
+
 :heavy_check_mark: - Train and evaluate a vanilla deep recurrent neural network (RNN)
 - Use pytorch framework to train the RNN network
 - Optimize the model and propose enhancement:
