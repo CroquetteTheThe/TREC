@@ -6,7 +6,7 @@ Classify questions into categories
 :heavy_check_mark: - Preprocess and prepare the training data
 
 :heavy_check_mark: - Train and evaluate a vanilla deep recurrent neural network (RNN)
-- Use pytorch framework to train the RNN network
+:heavy_check_mark: Use pytorch framework to train the RNN network
 - Optimize the model and propose enhancement:
 	- Pruning
 	- Mean belonging of a word to a category
